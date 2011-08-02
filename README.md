@@ -29,7 +29,7 @@ Setting up the help desk software requires these steps:
 help desk system include their name in the "signature" or in the From address
 (the actual from address should be left as the support account's address).
 
-* A chosen OOB communications medium for all support staff.
+And don't forget to set up the OOB communictions medium for all support staff.
 
 Usage
 -----
@@ -49,11 +49,21 @@ identifier in the subject line. The help desk software will consolidate all
 messages for each identifier together such that the entire correspondence is
 kept together.
 
-Untaggled Messages
-------------------
+Any work that is performed by support staff that isn't explicity communicated
+to the customer from the request should be recorded in the request page it
+relates to. In this way, other staff members are aware of exactly what has
+happened in case they are called in for help.
 
 If mail arrives in the inbox and it does not contain the request identifier in
 its subject, then it should be forwarded to the existing request.
+
+Assignment
+----------
+
+If a support request needs to be handled by someone other than the current
+support person, then the request should be assigned to that other person in the
+help desk software. This should generate a mail to the assigned staff member
+alerting them of the request.
 
 Multiple Staff Members
 ----------------------
